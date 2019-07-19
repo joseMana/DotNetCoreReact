@@ -1,2 +1,1 @@
-# DotNetCoreReactss
-# test
+# DotNetCoreReact
